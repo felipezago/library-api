@@ -1,2 +1,2 @@
 # library-api
-API to library storage
+API for storage of books of a library
